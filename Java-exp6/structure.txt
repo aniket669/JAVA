@@ -1,0 +1,8 @@
+src/
+ ├── model/
+ │    └── Student.java
+ ├── controller/
+ │    └── StudentDAO.java
+ ├── view/
+ │    └── StudentView.java
+ └── App.java
